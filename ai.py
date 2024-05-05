@@ -29,21 +29,23 @@ Operating System: Android 12 \
 Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.2 \
 Security: In-display fingerprint scanner, Face recognition \
 Additional Features: IP68 water and dust resistance, NFC, USB Type-C \
-2. Laptop - Model ZBook Pro \
- \
-Technical Specifications: \
- \
-Processor: Intel Core i9-11980HK \
-RAM: 32GB DDR4 \
-Storage: 1TB NVMe SSD \
-Display: 15.6-inch 4K OLED \
-Graphics: NVIDIA RTX 3080 \
-Battery: 92Whr, 230W AC Adapter \
-Operating System: Windows 11 Pro \
-Connectivity: Wi-Fi 6E, Bluetooth 5.2 \
-Ports: Thunderbolt 4, USB-C, HDMI, SD Card Reader \
-Security: Fingerprint Reader, TPM 2.0 \
-Weight: 4.5 lbs (2.04 kg) \
+\
+2. VR Headset - Model VRX1\
+\
+Display: Dual AMOLED displays (one per eye)\
+Resolution: 2160 x 1200 pixels per eye (1080 x 1200 pixels per eye for older models)\
+Refresh Rate: 90Hz or higher for smooth motion\
+Field of View (FOV): Approximately 110 degrees\
+Tracking: Inside-out or outside-in tracking system for head and hand movements\
+Controllers: Included hand controllers with haptic feedback\
+Connectivity: USB-C or proprietary connection for tethered use, Bluetooth for wireless connectivity\
+Sensors: Accelerometer, gyroscope, magnetometer for tracking head movement\
+Audio: Built-in headphones or audio jack for external headphones\
+Compatibility: Compatible with PC, gaming consoles, or standalone VR platforms\
+Weight: Typically around 400-600 grams for comfortable wear\
+Platform: Compatible with major VR platforms like Oculus, SteamVR, PlayStation VR, etc.\
+Additional Features: Adjustable head strap, interpupillary distance (IPD) adjustment, built-in microphone for voice commands or communication\
+\
 3. Smart Watch - Model S3 \
  \
 Technical Specifications: \
@@ -58,6 +60,7 @@ Battery Life: Up to 18 hours \
 Water Resistance: 50 meters \
 Operating System: watchOS 8 \
 Additional Features: Built-in GPS, NFC for Apple Pay, Siri integration \
+\
 4. Desktop - Model Horizon 5000 \
  \
 Technical Specifications: \
@@ -72,6 +75,7 @@ Connectivity: Wi-Fi 6, Bluetooth 5.2\
 Ports: USB-C, USB 3.2, HDMI, DisplayPort\
 Cooling: Liquid cooling system\
 Case: Tempered glass side panel, RGB lighting\
+\
 5. Server - Model Titan S500\
 \
 Technical Specifications: \
