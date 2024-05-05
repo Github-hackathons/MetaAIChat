@@ -32,7 +32,7 @@ TeamTitans MetaAIChat is a Flask web application that allows users to interact w
 4. Run the Flask application: `python app.py`
 5. Access the application in your web browser at `http://localhost:5000`
 
-# Environment Variables
+## Environment Variables
 
 Create an `.env` file and store the following variables.
 Below are the environment variables required for the TeamTitans MetaAIChat project:
@@ -66,8 +66,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Inspiration: Credit goes to Azure OpenAI for this wonderful oppurtunity. 
-- Thank you to the team TeamTitans members:
+- Inspiration: Creddit goes to Azure OpenAI for this wonderful oppurtunity. Thank you to the team TeamTitans members:
     [Sriram, Vijaya Kumar](mailto:vijaya-kumar.sriram@capgemini.com)
     [Kotal, Soumya Kanti](mailto:soumya-kanti.kotal@capgemini.com)
     [Asthana, Poorna](mailto:poorna.asthana@capgemini.com)

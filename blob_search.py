@@ -1,3 +1,10 @@
+"""
+Currently the blob_search is not working due to Resource NOt Found Error. 
+This in implemented in version openai==0.28. Few of which functions have been or might have been deprecated.
+Though the Blob_search works smoothly, in the playgraound. 
+There are errors in the python implementation of "OpenAI Studio"--"Playground"--"View Code". Need to report that.
+"""
+
 import openai, os, requests
 from dotenv import load_dotenv
 # from openai import AzureOpenAI
@@ -78,7 +85,6 @@ message_text = [{"role": "user", "content": "What are the differences between Az
 def ask_openai_blob(user_input):    
     message_text = [{"role": "user", "content": user_input}]
 
-    #Get some Error like Resource not found, Etc.etc....
     completion = client.chat.completions.create(
         messages=message_text,
         model = deployment,
