@@ -1,0 +1,14 @@
+Phone - Model X1
+
+Technical Specifications:
+
+Processor: Octa-core Snapdragon 888
+RAM: 8GB
+Storage: 128GB / 256GB / 512GB (Expandable)
+Display: 6.5-inch Super AMOLED, 120Hz refresh rate
+Camera: Quad-camera setup (108MP main, 12MP ultrawide, 8MP telephoto, 5MP depth sensor)
+Battery: 5000mAh, 65W fast charging
+Operating System: Android 12
+Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.2
+Security: In-display fingerprint scanner, Face recognition
+Additional Features: IP68 water and dust resistance, NFC, USB Type-C

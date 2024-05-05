@@ -1,0 +1,14 @@
+Desktop - Model Horizon 5000
+
+Technical Specifications:
+
+Processor: AMD Ryzen 9 5900X
+RAM: 64GB DDR4
+Storage: 2TB NVMe SSD + 4TB HDD
+Graphics: NVIDIA RTX 3090
+Power Supply: 1000W
+Operating System: Windows 11 Pro
+Connectivity: Wi-Fi 6, Bluetooth 5.2
+Ports: USB-C, USB 3.2, HDMI, DisplayPort
+Cooling: Liquid cooling system
+Case: Tempered glass side panel, RGB lighting

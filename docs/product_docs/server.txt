@@ -1,0 +1,14 @@
+Server - Model Titan S500
+
+Technical Specifications:
+
+Processor: Dual Intel Xeon Gold 6258R
+RAM: 256GB DDR4 ECC Registered
+Storage: 12TB SSD (RAID 5)
+Networking: Dual 10 Gigabit Ethernet
+Expansion: PCIe 4.0 slots for additional cards
+Power Supply: Redundant 1200W
+Operating System: Linux CentOS 8
+Management: IPMI 2.0, BMC
+Security: TPM 2.0, Secure Boot
+Form Factor: Rack-mountable 2U

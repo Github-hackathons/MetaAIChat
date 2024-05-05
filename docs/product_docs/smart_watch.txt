@@ -1,0 +1,14 @@
+Smart Watch - Model S3
+
+Technical Specifications:
+
+Processor: Dual-core Apple S7
+RAM: 1GB
+Storage: 32GB
+Display: 1.78-inch LTPO OLED
+Sensors: Heart rate monitor, ECG, Blood oxygen, Accelerometer, Gyroscope
+Connectivity: Bluetooth 5.0, Wi-Fi
+Battery Life: Up to 18 hours
+Water Resistance: 50 meters
+Operating System: watchOS 8
+Additional Features: Built-in GPS, NFC for Apple Pay, Siri integration

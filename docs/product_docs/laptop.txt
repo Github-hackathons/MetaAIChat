@@ -1,0 +1,15 @@
+Laptop - Model ZBook Pro
+
+Technical Specifications:
+
+Processor: Intel Core i9-11980HK
+RAM: 32GB DDR4
+Storage: 1TB NVMe SSD
+Display: 15.6-inch 4K OLED
+Graphics: NVIDIA RTX 3080
+Battery: 92Whr, 230W AC Adapter
+Operating System: Windows 11 Pro
+Connectivity: Wi-Fi 6E, Bluetooth 5.2
+Ports: Thunderbolt 4, USB-C, HDMI, SD Card Reader
+Security: Fingerprint Reader, TPM 2.0
+Weight: 4.5 lbs (2.04 kg)

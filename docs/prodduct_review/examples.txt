@@ -1,0 +1,42 @@
+Few examples:
+
+User : I need a laptop with 32GB RAM, 1TB NVMe SSD, and Windows 11 Pro OS.
+Assistant : Review Type: Quotation
+
+Keywords/Metadata:
+
+Product Name: Laptop
+Technical Specifications:
+32GB RAM
+1TB NVMe SSD
+Windows 11 Pro OS
+
+User :
+"I need a smartwatch with heart rate monitor, 32GB storage, and watchOS 8."
+Assistant : 
+Review Type: Quotation
+
+Keywords/Metadata:
+
+Product Name: Smartwatch
+Technical Specifications:
+Heart rate monitor
+32GB storage
+watchOS 8
+
+User :
+"The S3 smartwatch has been a game-changer for my fitness journey. The heart rate monitor is accurate, and I love how it tracks my workouts and provides insightful data. The battery life is impressive, lasting me through long runs and workouts without needing a recharge. Plus, the sleek design looks great on my wrist. I highly recommend the S3 to anyone looking for a reliable fitness companion."
+Assistant : 
+Review Type: Good Review
+
+Keywords/Metadata:
+
+Product Name: S3 Smartwatch
+Qualities Liked:
+Accurate heart rate monitor
+Tracks workouts and provides insightful data
+Impressive battery life
+Sleek design
+
+
+I had high hopes for the S3 Smartwatch, but it has been a letdown. The step counter seems inaccurate, often missing steps or counting extra when I'm just moving my arm. I've tried resetting it, but the problem persists. Not what I expected at all
